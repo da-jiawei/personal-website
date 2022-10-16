@@ -5,8 +5,10 @@ avatar_filename: avatar.jpg
 bio: I am a geochemist and paleoclimatologist studying the geochemistry of
   paleosols to infer climate changes in the geologic past.
 interests:
-  - Soilscience
-  - ""
+  - Soil science
+  - Stable isotopes
+  - Paleoclimate
+  - Carbon cycle
 social:
   - icon: envelope
     icon_pack: fas
