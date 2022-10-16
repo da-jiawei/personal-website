@@ -15,7 +15,7 @@ author_notes:
   - Nanjing University
   - Nanjing University
 doi: https://doi.org/10.1038/s41467-019-12357-5
-publication: "*Nature Communications"
+publication: "*Nature Communications, 10*(4342)"
 abstract: Quantifying ancient atmospheric pCO2 provides valuable insights into
   the interplay between greenhouse gases and global climate. Beyond the 800-ky
   history uncovered by ice cores, discrepancies in both the trend and magnitude
