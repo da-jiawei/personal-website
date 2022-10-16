@@ -45,6 +45,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Jiawei Da is a postdoctoral research fellow working at the University of Texas at Austin. His research interests include soil science, low-temperature stable isotope geochemistry, carbon cycle, and paleoclimate. His current research mainly focuses on the reconstruction of late Cenozoic atmospheric $CO_{2}$ levels, using paleosols from the Chinese Loess Plateau. 
+Jiawei Da is a postdoctoral research fellow working at the University of Texas at Austin. His research interests include soil science, low-temperature stable isotope geochemistry, carbon cycle, and paleoclimate. His current research mainly focuses on the reconstruction of late Cenozoic atmospheric  levels, using paleosols from the Chinese Loess Plateau. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
