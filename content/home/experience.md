@@ -25,7 +25,7 @@ experience:
   - title: CO2PIP postdoctoral research fellow
     company: The university of Texas at Austin
     company_url: ''
-    company_logo: org-gc
+    company_logo: 'assets/media/jsg_logo.jpg'
     location: Austin, TX
     date_start: '2022-08-01'
     date_end: ''
