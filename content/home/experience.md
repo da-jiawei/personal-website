@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: CO2PIP postdoctoral research fellow
     company: The university of Texas at Austin
-    company_url: ''
+    company_url: 'https://www.jsg.utexas.edu/'
     company_logo: 'assets/media/jsg_logo.jpg'
     location: Austin, TX
     date_start: '2022-08-01'
@@ -36,14 +36,14 @@ experience:
         * Compilation and Modernization of published paleosol-CO2 records
         * Developing a proxy system model of the paleosol system
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: postdoctoral research fellow
+    company: Nanjing University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Nanjing, China
+    date_start: '2020-09-01'
+    date_end: '2022-7-31'
+    description: 
 
 design:
   columns: '2'
