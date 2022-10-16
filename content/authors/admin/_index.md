@@ -2,8 +2,8 @@
 title: Jiawei Da 达佳伟
 role: Postdoctoral Research Fellow
 avatar_filename: wechatimg1.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I am a geochemist and paleoclimatologist studying the geochemistry of
+  paleosols to infer climate changes in the geologic past.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -47,9 +47,8 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+Jiawei Da is a postdoc at the University of Texas at Austin. His research interests include soil science, low-temperature stable isotope geochemistry, carbon cycle, and paleoclimate. 
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
