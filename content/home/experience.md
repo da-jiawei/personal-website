@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Coordination within the paleosol-CO2 community
+        * Compilation and Modernization of published paleosol-CO2 records
+        * Developing a proxy system model of the paleosol system
 
   - title: Professor of Semiconductor Physics
     company: University X
