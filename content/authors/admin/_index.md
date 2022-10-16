@@ -1,7 +1,7 @@
 ---
 title: Jiawei Da 达佳伟
 role: Postdoctoral Research Fellow
-avatar_filename: wechatimg1.jpeg
+avatar_filename: avatar.jpg
 bio: I am a geochemist and paleoclimatologist studying the geochemistry of
   paleosols to infer climate changes in the geologic past.
 interests:
