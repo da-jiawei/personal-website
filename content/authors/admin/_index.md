@@ -47,4 +47,4 @@ email: ""
 ---
 Jiawei Da is a postdoctoral research fellow working at the University of Texas at Austin. His research interests include soil science, low-temperature stable isotope geochemistry, carbon cycle, and paleoclimate. His current research mainly focuses on the reconstruction of late Cenozoic atmospheric CO2 levels, using paleosols from the Chinese Loess Plateau. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "[assets/media/schedule-connects-2022.pdf](https://github.com/paleoCO2/personal-website/blob/main/assets/media/schedule-connects-2022.pdf)" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "[schedule-connects-2022.pdf](https://github.com/paleoCO2/personal-website/files/9795846/schedule-connects-2022.pdf)" "newtab" >}}resumé{{< /staticref >}}.
