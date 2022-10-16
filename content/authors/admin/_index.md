@@ -5,9 +5,8 @@ avatar_filename: avatar.jpg
 bio: I am a geochemist and paleoclimatologist studying the geochemistry of
   paleosols to infer climate changes in the geologic past.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Soilscience
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,27 +27,22 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Texas at Austin
+    url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Geology
+      institution: Nanjing University
+      year: 2020
+    - course: BSc in Geology
+      institution: Jilin University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
 email: ""
 ---
-Jiawei Da is a postdoc at the University of Texas at Austin. His research interests include soil science, low-temperature stable isotope geochemistry, carbon cycle, and paleoclimate. 
-
-is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiawei Da is a postdoctoral research fellow working at the University of Texas at Austin. His research interests include soil science, low-temperature stable isotope geochemistry, carbon cycle, and paleoclimate. His current research mainly focuses on the reconstruction of late Cenozoic atmospheric $CO_{2}$ levels, using paleosols from the Chinese Loess Plateau. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
