@@ -3,14 +3,19 @@ title: Low CO2 levels of the entire Pleistocene epoch
 publication_types:
   - "2"
 authors:
-  - Da
-  - Jiawei
+  - admin
   - Yi Ge Zhang
   - Gen Li
   - Xianqiang Meng
   - Junfeng Ji
+author_notes:
+  - Nanjing University
+  - Texas A&M University
+  - California Institute of Technology
+  - Nanjing University
+  - Nanjing University
 doi: https://doi.org/10.1038/s41467-019-12357-5
-publication: Nature Communications
+publication: 1Nature Communications
 abstract: Quantifying ancient atmospheric pCO2 provides valuable insights into
   the interplay between greenhouse gases and global climate. Beyond the 800-ky
   history uncovered by ice cores, discrepancies in both the trend and magnitude
@@ -29,7 +34,7 @@ abstract: Quantifying ancient atmospheric pCO2 provides valuable insights into
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2019-10-01T20:37:00.000Z
