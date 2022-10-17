@@ -15,7 +15,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://https://twitter.com/da_jiawei
+    link: https://twitter.com/da_jiawei
     label: Follow me on Twitter
     display:
       header: true
@@ -27,22 +27,22 @@ social:
     link: https://github.com/paleoCO2
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jiawei-da-aa692133/
 organizations:
   - name: The University of Texas at Austin
-    url: ""
+    url: "https://www.utexas.edu/"
 education:
   courses:
     - course: PhD in Geology
       institution: Nanjing University
-      year: 2020
+      year: 2013 - 2020
     - course: BSc in Geology
       institution: Jilin University
-      year: 2012
+      year: 2008 - 2012
 superuser: true
-last_name: Bighetti
+last_name: Da
 highlight_name: true
-first_name: Alice
+first_name: Jiawei
 email: ""
 ---
 Jiawei Da is a postdoctoral research fellow working at the University of Texas at Austin. His research interests include soil science, low-temperature stable isotope geochemistry, carbon cycle, and paleoclimate. His current research mainly focuses on the reconstruction of late Cenozoic atmospheric CO2 levels, using paleosols from the Chinese Loess Plateau. 
