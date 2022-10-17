@@ -25,22 +25,21 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: jiawei@utexas.edu
+  phone: +1(737)5879577
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 2305 Speedway Stop C1160
+    city: Austin
+    region: TX
+    postcode: '78731'
     country: United States
     country_code: US
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Jackon School of Geosciences
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Workday 9:00 to 17:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
