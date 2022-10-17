@@ -39,7 +39,7 @@ experience:
   - title: postdoctoral research fellow
     company: Nanjing University
     company_url: 'https://www.nju.edu.cn/EN/main.htm'
-    company_logo: 
+    company_logo: 'NJU'
     location: Nanjing, China
     date_start: '2020-09-01'
     date_end: '2022-07-31'
@@ -48,7 +48,7 @@ experience:
   - title: Research assistant
     company: Key laboratory of Surfical Geochemistry, Ministry of Education, Nanjing University
     company_url: ''
-    company_logo: ''
+    company_logo: 'NJU'
     location: Nanjing, China
     date_start: '2017-09-01'
     date_end: '2022-07-31'
