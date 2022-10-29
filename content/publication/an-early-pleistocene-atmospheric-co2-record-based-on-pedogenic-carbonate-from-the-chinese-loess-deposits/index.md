@@ -31,6 +31,9 @@ abstract: The tight coupling between temperature and atmospheric CO2 is shown by
   recorded in ice cores for the last 0.8 Myr.
 draft: false
 featured: false
+tags:
+  - CO2
+  - Pleistocene
 image:
   filename: featured
   focal_point: Smart
