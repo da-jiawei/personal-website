@@ -7,6 +7,10 @@ authors:
   - admin
   - Gen Li
   - Junfeng Ji
+author_notes:
+  - Nanjing University
+  - California Institute of Technology
+  - Nanjing University
 doi: " https://doi.org/10.1029/2021GL093407"
 publication: "Geophysical Research Letters, 48.24 (2021): e2021GL093407"
 draft: false
