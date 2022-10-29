@@ -33,6 +33,9 @@ abstract: Quantifying ancient atmospheric pCO2 provides valuable insights into
   climate change event.
 draft: false
 featured: false
+tags:
+  - CO2
+  - Pleistocene
 image:
   filename: featured.jpg
   focal_point: Smart
