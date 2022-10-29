@@ -3,7 +3,10 @@ title: Overestimate of C4 Plant Abundance Caused by Soil Degradation-Induced
   Carbon Isotope Fractionation
 publication_types:
   - "2"
-authors: []
+authors:
+  - admin
+  - Gen Li
+  - Junfeng Ji
 doi: " https://doi.org/10.1029/2021GL093407"
 publication: "Geophysical Research Letters, 48.24 (2021): e2021GL093407"
 draft: false
