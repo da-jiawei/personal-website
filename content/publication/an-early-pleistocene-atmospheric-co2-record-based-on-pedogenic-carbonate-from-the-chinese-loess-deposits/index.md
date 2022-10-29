@@ -11,7 +11,7 @@ authors:
   - Junfeng Ji
 author_notes: []
 doi: https://doi.org/10.1016/j.epsl.2015.05.053
-publication: "Earth and Planetary Science Letters 426 (2015): 69-75"
+publication: "*Earth and Planetary Science Letters 426 (2015): 69-75"
 abstract: The tight coupling between temperature and atmospheric CO2 is shown by
   ice core records for the past 0.8 million years (Myr). However, the modern
   atmospheric partial pressure of CO2 (pCO2) has exceeded previous interglacial
