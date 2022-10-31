@@ -6,6 +6,6 @@ google_fonts = "family=Jost"
 
 # Font families
 heading_font = "Jost"
-body_font = "Merriweather"
-nav_font = "Lato"
-mono_font = "Roboto Mono"
+body_font = "Jost"
+nav_font = "Jost"
+mono_font = "Jost"
