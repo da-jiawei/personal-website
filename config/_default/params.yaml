@@ -8,7 +8,7 @@
 appearance:
   theme_day: earth
   theme_night: earth
-  font: Jost
+  font: my_font_set
   font_size: L
 
 # SEO
