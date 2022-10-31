@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Jost"
+
+# Optional Google font URL
+google_fonts = "family=Jost"
+
+# Font families
+heading_font = "Jost"
+body_font = "Merriweather"
+nav_font = "Lato"
+mono_font = "Roboto Mono"
