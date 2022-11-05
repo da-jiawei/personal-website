@@ -11,8 +11,8 @@ tags:
   - daily
 categories:
   - daily
-image:
-  filename: featured.jpg
+video:
+  filename: kayak.mp4
   focal_point: Smart
   preview_only: false
   caption: Sunrise from up the air
