@@ -22,4 +22,4 @@ gallery_item:
 
 ---
 
-{{< gallery album="demo" >}}
+{{< gallery album="demo" resize_options="400x300">}}
