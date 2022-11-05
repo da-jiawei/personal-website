@@ -14,6 +14,15 @@ subtitle:
 
 design:
   columns: '1'
+
+gallery_item:
+- album: <demo>
+  image: <IMAGE 1 NAME>.jpg
+  caption: Write your image 1 caption here
+- album: <demo>
+  image: <IMAGE 2 NAME>.jpg
+  caption: Write your image 2 caption here
+
 ---
 
 {{< gallery album="demo" >}}
