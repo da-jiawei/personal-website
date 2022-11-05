@@ -7,7 +7,7 @@ widget: markdown
 headless: true
 
 # Order that this section appears on the page.
-weight: 66
+weight: 50
 
 title: Gallery
 subtitle:
@@ -19,6 +19,9 @@ gallery_item:
 - album: demo
   image: Bear lake.jpeg
   caption: Bear Lake at the Rocky Mountain National Park
+- album: demo
+  image: Lake Estes.jpeg
+  caption: Lake Estes with the Rocky Mountain at the back
 
 ---
 
