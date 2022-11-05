@@ -11,11 +11,11 @@ tags:
   - daily
 categories:
   - daily
-video:
-  filename: kayak.mp4
+image:
+  filename: duck.jpeg
   focal_point: Smart
   preview_only: false
-  caption: Sunrise from up the air
+  caption: A duck standing on a piece of wood
 ---
 The City Austin is cut in half by the meandering Colorado River, which is great for the people living in here to enjoy a bit of coolness during the long, unbearably hot summer. 
 {{< video src="kayak.mp4" controls="yes" >}}
