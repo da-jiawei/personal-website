@@ -1,6 +1,6 @@
 ---
 widget: gallery
-widget_id: pictures
+widget_id: gallery
 headless: true
 weight: 70
 active: true
