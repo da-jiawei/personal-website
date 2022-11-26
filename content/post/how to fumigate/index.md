@@ -8,9 +8,9 @@ featured: false
 authors:
   - admin
 tags:
-  - daily,academia
+  - daily, academia
 categories:
-  - daily,academia
+  - daily, academia
 image:
   filename: WechatIMG15.jpeg
   focal_point: Smart
