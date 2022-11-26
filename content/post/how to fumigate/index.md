@@ -1,26 +1,23 @@
 ---
-title: Kayak in the Colorado River
+title: How to fumigate
 subtitle: 
 date: 2022-09-09T02:19:31.591Z
-summary: My wife and I tried the N0.1 outdoor activity in Austin.
+summary: The answer to a mistery that has haunted me for a long time
 draft: false
 featured: false
 authors:
   - admin
 tags:
-  - daily
+  - daily,academia
 categories:
-  - daily
+  - daily,academia
 image:
   filename: duck.jpeg
   focal_point: Smart
   preview_only: false
   caption: A duck standing on a piece of wood
 ---
-The City Austin is cut in half by the meandering Colorado River, which is great for the people living in here to enjoy a bit of coolness during the long, unbearably hot summer. 
+As a paleoclimatologist and geochemist who studies fossil soils, one thing we often look at is the stable carbon isotopic composition (d13C) of soil organic matter. However, because these are old soils, most of the organic matter have been either oxidated or comsumed by soil microorganisms, and the remaining organic carbon content (TOC) can be so low (<0.1%）that introduces signifcant uncertainty to the measured d13C. 
+In terms of carbonate-containing soils, we need to remove the carbonate before measurement, because the d13C of soil carbonates are much higher than those of soil organic matter. This is especially important for low TOC paleosols, since a tiny bit of carbonate could lead to a hugh bias. The most common way of removing carbonate is called "acid wash", which 
 {{< video src="kayak.mp4" controls="yes" caption="A clumbsy paddler">}}
-People have been recommending me to kayak ever since we arrived. A friend who used to live here told me he even bought a kayak. However, he soon moved to the Mountainous Boulder and the kayak naturally retired after its short-lived duty.  
-Anyway, we decided to give it a try on a Friday afternoon. We rent a kayak at Zilker park and navigated through a narrow tributary filled with unknown aquatic plants, which could easily intertwine with the paddles. 
-We paddled 4 miles all the way to the Lady Bird Lake, where you are supposed to see thousands of bats flying out of the Congress Avenue Bridge at sunset. 
-Unfortunately, we arrived too early for both the sunset and the bats. So next time, then! 
-It was fun and we will defintely come again. 
+
