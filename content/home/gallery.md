@@ -22,7 +22,12 @@ gallery_item:
 - album: demo
   image: Lake Estes.jpeg
   caption: Lake Estes with the Rocky Mountain at the back
-
+ - album: demo
+  image: Mount Bonnell.jpeg
+  caption: Overlooking the Texas Colorado river from Mount Bonnell
+- album: demo
+  image: pedernales falls.jpeg
+  caption: Pedernales Falls State Park during the fall
 ---
 
 {{< gallery album="demo" resize_options="400x300">}}
