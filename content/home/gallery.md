@@ -22,7 +22,7 @@ gallery_item:
 - album: demo
   image: Lake Estes.jpeg
   caption: Lake Estes with the Rocky Mountain at the back
- - album: demo
+- album: demo
   image: Mount Bonnell.jpeg
   caption: Overlooking the Texas Colorado river from Mount Bonnell
 - album: demo
