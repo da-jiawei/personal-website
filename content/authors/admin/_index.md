@@ -45,6 +45,6 @@ highlight_name: true
 first_name: Jiawei
 email: ""
 ---
-Hi there! I am Jiawei Da, and I'm currently a postdoctoral research fellow working at the University of Texas at Austin, under the [Phanerzoic CO2PIP project](https://paleo-co2.org/co2pip). My research interests primarily lie in the realms of soil science, global carbon cycle, and paleoclimate reconstructions. My current researches focuse on the reconstruction of late Cenozoic atmospheric CO2 levels as well as regional climate, using paleosols from the Chinese Loess Plateau. 
+Hi there! I am Jiawei Da, and I'm currently a postdoctoral research fellow working at the University of Texas at Austin, under the [Phanerzoic CO2PIP project](https://paleo-co2.org/co2pip). My research interests primarily lie in the realms of soil science, global carbon cycle, and paleoclimate reconstructions. My current research focuses on the reconstruction of late Cenozoic atmospheric CO2 levels as well as regional climate, using paleosols from the Chinese Loess Plateau. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Jiawei202210.pdf" "newtab" >}}resumé{{< /staticref >}}.
