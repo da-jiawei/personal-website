@@ -28,6 +28,24 @@ gallery_item:
 - album: demo
   image: pedernales falls.jpeg
   caption: Pedernales Falls State Park during the fall
+- album: demo
+  image: hooverdam.jpeg
+  caption: Hoover Dam - a 1930s work
+- album: demo
+  image: grandcanyon.jpeg
+  caption: Grand Canyon - 1 billion and 500 million-year-old wall painting made by the Colorado River
+- album: demo
+  image: grandcanyonsundown.jpeg
+  caption: Sunset at Grand Canyon
+- album: demo
+  image: horseshoebend.jpeg
+  caption: Another masterpiece by the Colorado River
+- album: demo
+  image: antelope.jpeg
+  caption: Jurassic sandstone
+- album: demo
+  image: zion.jpeg
+  caption: overlooking the Zion Canyon area
 ---
 
 {{< gallery album="demo" resize_options="400x300">}}
