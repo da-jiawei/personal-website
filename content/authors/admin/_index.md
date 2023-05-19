@@ -46,4 +46,4 @@ email: ""
 ---
 Hello there! Welcome to my personal webpage! I am Jiawei Da, a postdoctoral research fellow working at [the University of Texas at Austin](https://www.jsg.utexas.edu/researcher/jiawei_da/), under the [Phanerzoic CO2PIP project](https://paleo-co2.org/co2pip). My passion lies in exploring the fascinating fields of soil science, the global carbon cycle, and paleoclimate. My current research focuses on the reconstruction of late Cenozoic climate reconstructions based on paleosols from the Chinese Loess Plateau, using a variety of geochemical tools and modeling approaches. When I am not doing research, I enjoy working out and playing basketball to keep a healthy balance in life. I have a deep appreciation for travel, and visiting all the US national parks is a lifelong goal of mine. 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Jiawei202210.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Jiawei202210.pdf" "newtab" >}}resumé{{< /staticref >}}.
