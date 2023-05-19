@@ -2,8 +2,7 @@
 title: Jiawei Da 达佳伟
 role: Postdoctoral Research Fellow
 avatar_filename: avatar.jpg
-bio: I am a geochemist and paleoclimatologist studying the geochemistry of
-  paleosols to infer climate changes in the geologic past.
+bio: I am a geochemist and paleoclimatologist. I study fossil soils (paleosols) to infer climate changes in the geologic past.
 interests:
   - Soil science
   - Stable isotopes
@@ -33,7 +32,7 @@ organizations:
     url: https://www.utexas.edu/
 education:
   courses:
-    - course: PhD in Geology
+    - course: PhD in Geology (Transition from MD to PhD in 2015)
       institution: Nanjing University
       year: 2013 - 2020
     - course: BSc in Geology
