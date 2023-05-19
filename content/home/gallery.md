@@ -42,7 +42,7 @@ gallery_item:
   caption: Another masterpiece by the Colorado River
 - album: demo
   image: antelope.jpeg
-  caption: Jurassic sandstone
+  caption: Jurassic sandstone from the Antelope Canyon
 - album: demo
   image: zion.jpeg
   caption: overlooking the Zion Canyon area
