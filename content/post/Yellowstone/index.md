@@ -12,15 +12,9 @@ tags:
 categories:
   - daily
 image:
-  filename: duck.jpeg
+  filename: jenny lake.jpeg
   focal_point: Smart
   preview_only: false
-  caption: A duck standing on a piece of wood
+  caption: The crystal clear jenny lake - named after 
 ---
-The City Austin is cut in half by the meandering Colorado River, which is great for the people living in here to enjoy a bit of coolness during the long, unbearably hot summer. 
-{{< video src="kayak.mp4" controls="yes" caption="A clumbsy paddler">}}
-People have been recommending me to kayak ever since we arrived. A friend who used to live here told me he even bought a kayak. However, he soon moved to the Mountainous Boulder and the kayak naturally retired after its short-lived duty.  
-Anyway, we decided to give it a try on a Friday afternoon. We rent a kayak at Zilker park and navigated through a narrow tributary filled with unknown aquatic plants, which could easily intertwine with the paddles. 
-We paddled 4 miles all the way to the Lady Bird Lake, where you are supposed to see thousands of bats flying out of the Congress Avenue Bridge at sunset. 
-Unfortunately, we arrived too early for both the sunset and the bats. So next time, then! 
-It was fun and we will defintely come again. 
+My wife and I went on another national park tour to Yellowstone, the most famous NP known to the Chinese, as well as Grand Teton. I've known the Yellowstone and the Old Faithful since I was a little kid in elementary, when reading **One Hundred Thousand Whys** - the most popular science book for children. The Yellowstone was then buried in my memory for a long time until during my undergraduate study, when it was reintroduced to me as the **infant** of plate tectonics, after the **kid** Great Rift Valley, the **teenager** the Atlantic Ocean, the **adult** the Pacific, the **mid-aged** Death Sea, and the **old-man** the Tibetan Plateau. The circle of life. Anyway, I finally got the chance to witness
